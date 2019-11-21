@@ -2,6 +2,8 @@
 
 ## Tradução das mensagens de erro padrão do Laravel 5.5 para PT-BR
 
+[![StyleCI](https://github.styleci.io/repos/140715198/shield?branch=master)](https://github.styleci.io/analyses/qy339G)
+
 Instalação:
 
 1. Clonar este projeto para uma pasta dentro de `resources/lang/`
