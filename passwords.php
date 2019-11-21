@@ -14,9 +14,9 @@ return [
     */
 
     'password' => 'A senha deve possuir no mínimo 6 caracteres e ser igual à confirmação.',
-    'reset' => 'Sua senha foi redefinida!',
-    'sent' => 'O link para redefinição de senha foi enviado para o seu e-mail!',
-    'token' => 'O token para recuperação de senha é inválido.',
-    'user' => 'Não encontramos nenhum usuário com esse endereço de e-mail.',
+    'reset'    => 'Sua senha foi redefinida!',
+    'sent'     => 'O link para redefinição de senha foi enviado para o seu e-mail!',
+    'token'    => 'O token para recuperação de senha é inválido.',
+    'user'     => 'Não encontramos nenhum usuário com esse endereço de e-mail.',
 
 ];
